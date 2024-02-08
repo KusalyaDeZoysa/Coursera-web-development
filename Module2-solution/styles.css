@@ -7,14 +7,10 @@ body{
     font-family: sans-serif;
 }
 
-#navbar{
-    padding: 20px ;
-    background-color: rgb(236, 236, 236);
-}
-
 #mainHeading{
     text-align: center;
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 #food1, #food2, #food3{
@@ -64,7 +60,7 @@ body{
 
 
 #footer{
-    margin: 226px 0 0 0;
+    margin: 265px 0 0 0;
     padding: 30px;
     background-color: rgb(202, 200, 200);
 }
